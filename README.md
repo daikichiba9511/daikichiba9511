@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="http://twitter.com/496-nnc">
+<a href="http://twitter.com/496_nnc">
     <img height="20" src="https://img.shields.io/twitter/follow/496-nnc?label=Twitter&logo=twitter&style=flat" />
 <a href="https://github.com/daikichiba9511">
     <img height="20" src="https://img.shields.io/github/followers/daikichiba9511?label=follow&logo=github&style=flat" />
