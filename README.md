@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="http://twitter.com/496-nnc">
+    <img height="20" src="https://img.shields.io/twitter/follow/496-nnc?label=Twitter&logo=twitter&style=flat" />
+<a href="https://github.com/daikichiba9511">
+    <img height="20" src="https://img.shields.io/github/followers/daikichiba9511?label=follow&logo=github&style=flat" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=daikichiba9511&count_private=true&show_icons=true&theme=solarized-dark" />
