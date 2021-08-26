@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="http://twitter.com/496_nnc">
-    <img height="20" src="https://img.shields.io/twitter/follow/496-nnc?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/496_nnc?label=Twitter&logo=twitter&style=flat" />
 <a href="https://github.com/daikichiba9511">
     <img height="20" src="https://img.shields.io/github/followers/daikichiba9511?label=follow&logo=github&style=flat" />
 
