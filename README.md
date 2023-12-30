@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 ## Language
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=daikichiba9511&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daikichiba9511&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikichiba9511&count_private=true&show_icons=true&theme=tokyonight&exclude_repo=bayes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikichiba9511&count_private=true&show_icons=true&theme=tokyonight&exclude_repo=bayes" />
 </a>
 
 
