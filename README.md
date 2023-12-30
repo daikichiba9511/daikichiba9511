@@ -14,14 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="http://twitter.com/496_nnc">
-    <img height="20" src="https://img.shields.io/twitter/follow/496_nnc?label=Twitter&logo=twitter&style=flat" />
-<a href="https://github.com/daikichiba9511">
-    <img height="20" src="https://img.shields.io/github/followers/daikichiba9511?label=follow&logo=github&style=flat" />
+
+# About
+
+- Daiki Chiba
+- Data Scientist @ invox corporation
+- Interested in
+    - Machine Learning
+        - Computer Vision
+        - Search System
+        - Recommed System
+        - Graph
+    - mlops
+    - Data Science
+    - Algorithm
+    - Rust
+    - Vim
+
+## Experiences
+
+- BS in Physics
+- Kaggle Competition Expert (🥇0🥈1 🥉1)
+
+## Language
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=daikichiba9511&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikichiba9511&count_private=true&show_icons=true&theme=tokyonight&exclude_repo=bayes" />
 </a>
+
+
+## Socials
+
+- [Twitter](http://twitter.com/nnc_5522)
+- [GitHub](https://github.com/daikichiba9511)
+- [lapras](https://lapras.com/public/1FP4QSZ)
+- [wantedly](https://www.wantedly.com/id/daiki_chiba)
+- [linkedin](https://www.linkedin.com/in/%E5%A4%A7%E7%A8%80-%E5%8D%83%E8%91%89-94a132184/)
