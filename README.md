@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## Experiences
 
 - BS in Physics
-- Kaggle Competition Expert (🥇0🥈1 🥉1)
+- Kaggle Competition Expert (🥇0🥈1 🥉2)
 
 ## Language
 
