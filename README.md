@@ -25,11 +25,12 @@ Here are some ideas to get you started:
         - Search System
         - Recommed System
         - Graph
-    - mlops
+    - MLOps
     - Data Science
     - Algorithm
     - Rust
     - Vim
+    - Data Management
 
 ## Experiences
 
