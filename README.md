@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 - Interested in
     - Machine Learning
         - Computer Vision
-        - Search System
-        - Recommed System
+        - Signal
         - Graph
+        - Recommend System
+        - Search System
     - MLOps
     - Data Science
     - Algorithm
