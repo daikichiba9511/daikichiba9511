@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## Experiences
 
 - BS in Physics
-- Kaggle Competition Expert (🥇0🥈1 🥉2)
+- Kaggle Competition Expert (🥇0🥈1 🥉3)
   - Please see details: https://daikichiba9511.github.io/my-personal-site/about/
 
 ## Language
