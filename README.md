@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # About
 
 - Daiki Chiba
-- Data Scientist @ invox corporation
+- ML Engineer @ Invox inc.
 - Interested in
     - Machine Learning
         - Computer Vision
