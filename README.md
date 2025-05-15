@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # About
 
 - Daiki Chiba
-- ML Engineer @ Invox inc.
+- ML Engineer 
 - Interested in
     - Machine Learning
         - Computer Vision
