@@ -28,10 +28,36 @@ Here are some ideas to get you started:
         - Search System
     - MLOps
     - Data Science
+    - Data Management
     - Algorithm
     - Rust
-    - Vim
-    - Data Management
+    - Neovim
+    - Math
+- Using Tools
+    - Editor
+        - Neovim
+    - Terminal
+        - Wezterm
+        - ghostty  
+    - IDE
+        - VSCode Insider
+        - Cursor
+    - Browser
+        - Chrome
+        - Firefox
+    - CLIs
+        - mise
+        - uv
+        - tmux
+        - lazygit
+        - gh
+        - delta
+        - lsd
+        - ripgrep
+        - fd
+        - bat
+        - fzf
+        - etc.
 
 ## Experiences
 
