@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Interested in
     - Machine Learning
         - Computer Vision
-        - Signal
+        - Signal Processing
         - Graph
         - Recommend System
         - Search System
