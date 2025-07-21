@@ -31,6 +31,7 @@ Here are some ideas to get you started:
     - Data Management
     - Algorithm
     - Rust
+    - C++
     - Neovim
     - Math
 - Using Tools
