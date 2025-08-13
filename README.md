@@ -26,6 +26,7 @@ Here are some ideas to get you started:
         - Graph
         - Recommend System
         - Search System
+        - Dataset Pruning
     - MLOps
     - Data Science
     - Data Management
