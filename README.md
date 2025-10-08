@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </a>
 
 
-## Socials
+## Links
 
 - [Twitter](http://twitter.com/nnc_5522)
 - [GitHub](https://github.com/daikichiba9511)
