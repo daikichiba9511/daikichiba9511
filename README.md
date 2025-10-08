@@ -84,5 +84,6 @@ Here are some ideas to get you started:
 - [lapras](https://lapras.com/public/1FP4QSZ)
 - [wantedly](https://www.wantedly.com/id/daiki_chiba)
 - [linkedin](https://www.linkedin.com/in/%E5%A4%A7%E7%A8%80-%E5%8D%83%E8%91%89-94a132184/)
+- [zenn](https://zenn.dev/nnc496)
 
 - 勧誘などの際はGPUなどの使える開発環境を教えてください
