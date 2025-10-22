@@ -88,3 +88,4 @@ Here are some ideas to get you started:
 - [findy](https://findy-code.io/skills-share/FlAtiSrU44_m2)
 
 - 勧誘などの際はGPUなどの使える開発環境を教えてください
+- 職務経歴書はマッチ後に連絡か、findyで取得可能です
