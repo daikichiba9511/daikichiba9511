@@ -67,17 +67,6 @@ Here are some ideas to get you started:
 - Kaggle Competition Expert (🥇0🥈2🥉3)
   - Please see details: https://daikichiba9511.github.io/my-personal-site/about/
 
-## Language
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=daikichiba9511&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikichiba9511&count_private=true&show_icons=true&theme=tokyonight&exclude_repo=bayes" />
-</a>
-
-
 ## Links
 
 - [Twitter](http://twitter.com/nnc_5522)
