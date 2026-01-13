@@ -39,9 +39,10 @@ Here are some ideas to get you started:
     - Editor
         - Neovim
     - Terminal
-        - ghostty
+        - wezterm
     - IDE
         - VSCode Insiders
+        - Cursor
     - Browser
         - Chrome
         - Firefox
