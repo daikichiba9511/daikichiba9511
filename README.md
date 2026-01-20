@@ -58,7 +58,7 @@ Here are some ideas to get you started:
         - fd
         - bat
         - fzf
-        - claude code max 100
+        - claude code max
         - codex (pro plan)
         - etc.
 
