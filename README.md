@@ -39,10 +39,9 @@ Here are some ideas to get you started:
     - Editor
         - Neovim
     - Terminal
-        - wezterm
+        - Ghostty
     - IDE
         - VSCode Insiders
-        - Cursor
     - Browser
         - Chrome
         - Firefox
@@ -58,8 +57,8 @@ Here are some ideas to get you started:
         - fd
         - bat
         - fzf
-        - claude code max
-        - codex (pro plan)
+        - claude code
+        - codex
         - etc.
 
 ## Experiences
