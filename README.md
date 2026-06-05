@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Daiki Chiba
 - ML Engineer 
 - Interested in
+    - Evaluation-driven data generation and model design for efficient, robust, real-time computer vision
     - Machine Learning
         - Computer Vision
           - Object Detection
